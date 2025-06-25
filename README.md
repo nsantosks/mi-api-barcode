@@ -225,5 +225,6 @@ Copia la URL pública que Render te da. Será algo como: `https://mi-super-api-b
 
 ---
 
+Ejemplo de Uso: 'https://mi-super-api-barcode.onrender.com/generate-barcode/?data=hola_mundo_123'
 
 ¡Felicidades! 🎉 Has construido, depurado y desplegado tu propia API desde cero. Ahora tienes control total y un conocimiento invaluable para tus próximos proyectos.
